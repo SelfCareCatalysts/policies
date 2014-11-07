@@ -2,8 +2,6 @@
 
 Self Care Catalysts works with Subcontractors to assure restriction of physical access to systems used as part of the Self Care Catalysts Platform. Self Care Catalysts and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Self Care Catalysts workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Self Care Catalysts facilities is limited to only those authorized in this policy. In an effort to safeguard ePHi from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Self Care Catalysts’s facility.
 
-Of note, Self Care Catalysts does not have ready access to ePHI, it provides cloud-based, compliant infrastructure to covered entities and business associates. Self Care Catalysts does not physically house any systems used by its Platform in Self Care Catalysts facilities. Physical security of our Platform servers is outlined [here](http://broadcast.rackspace.com/downloads/pdfs/RackspaceSecurityApproach.pdf).
-
 ## Applicable Standards from the HITRUST Common Security Framework
 
 * 08.b - Physical Entry Controls
